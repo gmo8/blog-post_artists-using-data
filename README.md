@@ -2,7 +2,7 @@
 ------
 
 ### Art Piece 1
-![Martin Wattenberg](images/pic2.png "Martin Wattenberg")
+![Martin Wattenberg](images/pic1.png "Martin Wattenberg")
 ![Martin Wattenberg](images/pic3.png "Martin Wattenberg")
 
 I chose this firt piece because the idea is simple - map the wind intensity and direction on any given day. However, each day can drastically change the mood of the piece. The first one is elegant. It beautifully represents the geography of the U.S. with stronger wind speeds and longer unbroken tragecteries on the great planes, but interesting and varied trajectories in the mountain ranges and near regions that may indicate temperature changes like near the deserts or coasts. The second piece is much different. It strikes fear and empathy when you see the very strong wind speeds around Houstan during the hurricane. The much darker shared in majority of the other areas in the U.S. almost looks like the rest of the country is being still in empathy for those in the heart of the storm. Very interesting emotions sturred over something as simple as wind pattern. 
